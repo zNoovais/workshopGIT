@@ -2,5 +2,6 @@
 
 int main(void){
     for(int i = 0; i < 100; i++)
-    printf("PORRASECA\n");
+    printf("CARALHO\n");
 }
+
